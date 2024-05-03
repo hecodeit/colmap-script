@@ -1,4 +1,4 @@
-python colmap-script/convert.py -s DJI_20240224_merged/
+python convert.py -s DJI_20240224_merged/
 cd DJI_20240224_merged/
 mv DJI_20240224_merged/images/ DJI_20240224_merged/zip/
 mv DJI_20240224_merged/sparse/ DJI_20240224_merged/zip/
